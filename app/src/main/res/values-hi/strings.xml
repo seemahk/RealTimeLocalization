@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealTimeLocalization</string>
+    <string name="Back">" वापस"</string>
+    <string name="ChangeLanguage">" भाषा बदलो"</string>
+    <string name="Name">" नाम"</string>
+    <string name="Password">" पारण शब्द"</string>
+    <string name="Submit">" जमा करें"</string>
+</resources>
